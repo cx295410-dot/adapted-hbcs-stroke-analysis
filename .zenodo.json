@@ -1,0 +1,15 @@
+{
+  "title": "Adapted hBCS and stroke and mortality transitions: research code",
+  "upload_type": "software",
+  "description": "Research-code archive for longitudinal adapted harmonized Brain Care Score analyses of HRS and CHARLS. Includes the existing core and additional-analysis scripts, an analysis-coverage map, input documentation, and an MIT license. No participant-level data are included. This is a source-code archive rather than a validated one-command reproduction pipeline; module coverage and historical execution dependencies are documented in the repository. Death-reclassification and full complete-score selection-weighting analyses are outside the scope of this release.",
+  "creators": [
+    {"name": "Chen, Xiang"},
+    {"name": "Wang, Jianjun"},
+    {"name": "Liu, Junjie"},
+    {"name": "Cheng, Aibin"}
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": ["stroke", "mortality", "HRS", "CHARLS", "Brain Care Score", "longitudinal analysis"]
+}

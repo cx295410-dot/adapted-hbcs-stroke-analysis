@@ -1,0 +1,143 @@
+{
+  "snapshot_date": "2026-10-24",
+  "scripts": [
+    {
+      "path": "code/01_hrs_variable_inventory.R",
+      "sha256": "807e3cf1c673ce0417105bdc6610e3d0c1299b9b3ebce80044843b42b8c317cf",
+      "bytes": 4338,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/02_hrs_core_variable_audit.R",
+      "sha256": "b4836480e5b28e9db02eb7ed786bad50745a09869d47a9a7064497c3b89b845f",
+      "bytes": 6661,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/03_charls_variable_inventory.R",
+      "sha256": "17d8df4054b84f49aaafb9a7e78e8fc9c66f4d2c1985f626c25dbc1f5a43dda2",
+      "bytes": 4391,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/04_charls_core_variable_audit.R",
+      "sha256": "574d37bda61302972e636b51bd979ede466bb6e08ff5e581bf8b6731da0dee9c",
+      "bytes": 6284,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/05_build_hrs_long_data.R",
+      "sha256": "a459689465f028650a59c0d52e383f7dacd80eb49424ce1583624d93ce69eaaf",
+      "bytes": 9133,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/06_score_hrs_hbcs.R",
+      "sha256": "b3287ab330315a9b53ff06c09dcfa3b217a30f4ba4d662417a44f3c40ab6e21a",
+      "bytes": 7325,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/07_build_charls_long_data.R",
+      "sha256": "cbb9a899c167a294e3129583bb55fa613bad66138ddc0882a257ab3d16bf1993",
+      "bytes": 8793,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/08_score_charls_hbcs.R",
+      "sha256": "f5cc19064871b834020965fc4d1d579bc6bf136f3f9f2f91f8cda1b151a7d383",
+      "bytes": 10082,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/09_primary_transition_models.R",
+      "sha256": "75bfc76034b52ac7e52fdfc33baff4db3d39bb651cf09123775d3ba0e28a798d",
+      "bytes": 5949,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/10_sensitivity_models.R",
+      "sha256": "0ad4b5bc88ea77df469bb7cf6f3e9394d635f38eb0d77ef661d83958c0d324f0",
+      "bytes": 5725,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/11_descriptive_and_category_models.R",
+      "sha256": "3949705033423124b8bc254aac9f8d39dc48cf464e349506e1d395f3651d3721",
+      "bytes": 8496,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/12_clean_bmi_and_refresh_scores.R",
+      "sha256": "ffc10a13c604ab823364b24304ddf63a74cd928008506181edf1c07dc539433b",
+      "bytes": 4882,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/13_publication_tables_figures.R",
+      "sha256": "cbb1362cbe1d7c7b334583e938eb6b0b32f3c74311b56d9d87ae4fc1f42aa732",
+      "bytes": 7048,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/13b_redraw_figure3.R",
+      "sha256": "033e97694932218ec6834ff6d7c7fd15e6ef54fe64ce3bba4c222251f58f988c",
+      "bytes": 4542,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/14_complete_publication_figures.R",
+      "sha256": "6e7340ba921189f6d261479566f3cae5eb2839a00d2b97683e64c33e0173a2ca",
+      "bytes": 14164,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/15_redraw_main_figures.R",
+      "sha256": "a9116877680ab35787d1e08f60c53e695e62ee2c18c9978d2943e23418dffb97",
+      "bytes": 26976,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/15b_redraw_flowchart.R",
+      "sha256": "f038790112610b0193fa28a21c921508c776447c2daa9b2805307189917d5991",
+      "bytes": 11443,
+      "source_modification": "none"
+    },
+    {
+      "path": "code/16_build_submission_tables.py",
+      "sha256": "af136ae57a3ab48eccfb323d571f8d1b6820913f73e72745bfb9620c1b8761c8",
+      "bytes": 23599,
+      "source_modification": "none"
+    },
+    {
+      "path": "additional/00_preflight.R",
+      "sha256": "69b1d34c5ae565403552a389a502108cffa919cb6ea920ef8677b6d6ea2eba8d",
+      "bytes": 2323,
+      "source_modification": "none"
+    },
+    {
+      "path": "additional/01_additional_analyses.R",
+      "sha256": "27ad2a61b9fe62fb02d1660adbc67fbec21c4910c7030a1eacd2219cd63ccdd5",
+      "bytes": 18652,
+      "source_modification": "none"
+    },
+    {
+      "path": "additional/02_stable_charls_and_ipw.R",
+      "sha256": "239d40f95b95fc129bab2130be754f4edbf033b56800df9f8e17e4a94982787e",
+      "bytes": 5523,
+      "source_modification": "none"
+    },
+    {
+      "path": "additional/03_flow_and_education.R",
+      "sha256": "f689663d39b1abfb80e7d58bfd9b3f1b7a71af5453b6028f2f7fa4d925b4a6b3",
+      "bytes": 3051,
+      "source_modification": "none"
+    },
+    {
+      "path": "additional/04_redraw_figures.R",
+      "sha256": "c3e1df82684b253f523379e1f3c4fe95818745fe1a0c9727392a4cdf2e063074",
+      "bytes": 9930,
+      "source_modification": "none"
+    }
+  ]
+}

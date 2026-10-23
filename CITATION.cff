@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research code, cite the archived software version."
+title: "Adapted hBCS and stroke and mortality transitions: research code"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: Chen
+    given-names: Xiang
+  - family-names: Wang
+    given-names: Jianjun
+  - family-names: Liu
+    given-names: Junjie
+  - family-names: Cheng
+    given-names: Aibin
+repository-code: "https://github.com/cx295410-dot/adapted-hbcs-stroke-analysis"
+license: MIT
