@@ -9,6 +9,8 @@ and additional-analysis scripts for the study. The analysis-coverage map lists
 the available modules and their input requirements. It is a source-code archive,
 not a validated one-command reproduction pipeline.
 
+Archived release: <https://doi.org/10.5281/zenodo.23602467> (version 1.0.0).
+
 ## Study
 
 Longitudinal Adapted Brain Care Score and Stroke–Mortality Transitions in US
@@ -83,5 +85,8 @@ selecting the modules to run.
 Code is provided under the MIT License. The license applies to the code in this
 repository, not to the underlying cohort data, third-party packages, or survey
 documentation. Author metadata are provided in `CITATION.cff` and `.zenodo.json`.
-Use the version-specific software citation when citing an archived release.
-The Zenodo DOI will be added after successful release archiving.
+Use the version-specific software citation when citing this archive:
+
+Chen X, Wang J, Liu J, Cheng A. Adapted hBCS and stroke and mortality
+transitions: research code. Version 1.0.0. Zenodo; 2026.
+doi:10.5281/zenodo.23602467.
